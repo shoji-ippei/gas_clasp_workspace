@@ -1,0 +1,7 @@
+version: '3'
+services:
+  gas-clasp:
+    build: .
+    container_name: 'gas-clasp'
+    volumes:
+      - "$PWD:/home/clasp"

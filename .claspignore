@@ -1,0 +1,4 @@
+!appsscript.json
+base_code.gs
+**/**.ts
+!index.js
